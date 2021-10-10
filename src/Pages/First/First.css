@@ -13,6 +13,26 @@
 }
 
 .title p {
-  font-size: 2.5vw;
+  font-size: 3vw;
   color: #ce5773;
+}
+/* .container {
+  text-align: center;
+  border: 3px solid green;
+} */
+.btn-group {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: medium;
+  font-weight: 100;
+  background-color: rgba(88, 14, 14, 0.438);
+}
+.mydiv {
+  border: 2px solid black;
+  font-style: italic;
+  font-size: 25px;
+  text-align: center;
+  color: blue;
+  border-radius: 4px;
 }
