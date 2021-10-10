@@ -26,13 +26,15 @@
   padding-bottom: 5px;
   font-size: medium;
   font-weight: 100;
-  background-color: rgba(88, 14, 14, 0.438);
+  background-color: #d68497;
+  height: 12%;
 }
 .mydiv {
-  border: 2px solid black;
+  border: 2px;
   font-style: italic;
-  font-size: 25px;
+  font-size: 30px;
   text-align: center;
-  color: blue;
+  color: #ce5773;
   border-radius: 4px;
+  margin-top: 1%;
 }
